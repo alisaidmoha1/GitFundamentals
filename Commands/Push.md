@@ -31,4 +31,4 @@ After this command is used, you can just use `git push` and it will function the
 
 ---
 
-[Back to home](../Readme.md)
+[Back to home](../README.md)

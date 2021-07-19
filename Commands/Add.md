@@ -1,6 +1,6 @@
 # git add
 
-When changes have been made inside a git repositoty you want to keep, you'll need to use `git add` command. 
+When changes have been made inside a git repository you want to keep, you'll need to use `git add` command. 
 
 Items that have not been "tracked" before will start to be tracked and all other changes will be marked as modified.
 
