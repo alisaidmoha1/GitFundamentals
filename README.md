@@ -1,0 +1,5 @@
+# Git Exercise 
+
+**Git** is a version control system that allows us to tarck changes and commit them to *history*.
+
+Here is a growing collection of reasources and helpful commands to know when working with git.
