@@ -7,7 +7,7 @@ Using `git status` will show you what changes are being tracked, are not been tr
 It is exactly what is sounds like, a status check.
 
 ```
-git add
+git add .
 git status
 
 git commit -m "Modified landing page"
