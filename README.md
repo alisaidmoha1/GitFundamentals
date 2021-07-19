@@ -8,3 +8,4 @@ Here is a growing collection of reasources and helpful commands to know when wor
 
 - [git config ](./Commands/Config.md)
 - [git init](./Commands/Init.md)
+- [git add](./Commands/Add.md)
